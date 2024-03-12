@@ -1,6 +1,6 @@
 # AVR LibC - Wheeled Platform Exercise
 
-This project was made to learn how to program an Atmel AVR microcontroller (in this case the ATmega328P) using the AVR LibC library on a practical example. The project is very primitive and involves utilizing timer-counters and analog-to-digital converter to drive two DC motors in a simple wheeled mobile platform through a joystick. The difficulties to overcome included understanding the configuration registers and deriving a way to obtain ADC readings.
+This microproject was made to learn how to program an Atmel AVR microcontroller (in this case the ATmega328P) using the AVR LibC library on a practical example. The project is very primitive and involves utilizing timer-counters and analog-to-digital converter to drive two DC motors in a simple wheeled mobile platform through a joystick. The difficulties to overcome included understanding the configuration registers and deriving a way to obtain ADC readings.
 
 Please don't judge how the setup looks :)
 
